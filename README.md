@@ -1,6 +1,6 @@
 # Title
 
-Dive in the Heart of Chicago's crime
+Dive in the Heart of Chicago crime
 
 
 # Abstract
