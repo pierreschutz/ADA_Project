@@ -1,11 +1,11 @@
 # Title
 
-Dive in the Heart of Chicago crime
+Dive into the Heart of Chicago's crime
 
 
 # Abstract
 
-The iconic city of Chicago (Illinois), is widely known for it's crime. Surnamed Chirac because of it's crime rate comparable to the war in Irak, also known for Al Capone and it's Chicago outfit during the prohibition, Fred Hampton's assasination by the city's police, or the suddent rise of crime in 2015 make Chicago Crime an intersting subject to study.
+The iconic city of Chicago (Illinois), is widely known for it's crime. Surnamed Chirac because of it's crime rate comparable to the war in Irak, also known for Al Capone and it's Chicago outfit during the prohibition, Fred Hampton's assasination by the city's police, or the suddent rise of crime in 2015 make Chicago's crime an intersting subject to study.
 
 Through this study of 20 years of crime, we want to bring insights on the crime evolution, geographical distribution and effects on the city with an unbiased and apolitical aproach with the goal to give people an fair idea of the safety of the city and it's implications.
 
@@ -49,6 +49,13 @@ This website contains publicy available datasets for the city of Chicago. It cou
 
 # A list of internal milestones up until project milestone 2
 _Add here a sketch of your planning for the next project milestone._
+### Week 1 (28/10/2019 - 03/11/2019)
+
+### Week 2 (04/11/2019 - 10/11/2019)
+
+### Week 3 (11/11/2019 - 17/11/2019)
+
+### Week 4 (18/11/2019 - 24/11/2019)
 
 # Questions for TAs
 Add here some questions you have for us, in general or project-specific.
