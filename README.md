@@ -58,7 +58,7 @@ This dataset records results of food inspection since 2010 in Chicago. We have a
 This dataset contains taxi rides data such as location of picking and dropping, time of the course. This would allow us to see which areas of the city are well connected and which areas tend to be excluded. We can then try to correlate the results with the violent areas. However this analysis can only be possible for the 2016 year.
 
 - [Chicago public dataset](https://data.cityofchicago.org/):
-This website contains publicy available datasets for the city of Chicago. It could be a great way to complete our analysis. We can find data regarding different aspects of the city such as education, real estate, environment, cleanness... Findind how violent zones differ from each other regarding other aspects might lead us to find factors that reduce violence.
+This website contains publicy available datasets for the city of Chicago. It could be a great way to complete our analysis. We can find data regarding different aspects of the city such as education, real estate, environment, cleanness... Finding how violent zones differ from each other regarding other aspects might lead us to discover factors that reduce violence.
 
 
 
