@@ -1,0 +1,9 @@
+
+.DS_Store
+.ipynb_checkpoints/food_inspections-checkpoint.ipynb
+.ipynb_checkpoints/README-checkpoint.md
+data/chicago-food-inspections/.ipynb_checkpoints/food-inspections-checkpoint.csv
+data/chicago-food-inspections/.ipynb_checkpoints/socrata_metadata-checkpoint.json
+data/chicago-food-inspections/food-inspections.csv
+data/chicago-food-inspections/socrata_metadata.json
+report/.ipynb_checkpoints/ada2019-checkpoint.tex
