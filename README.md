@@ -20,6 +20,8 @@ Also, we think that a good analysis of crime through cities with endemic crimina
 
 - Are violent areas ghettos (no-go zones)? We can speculate that people do not go to violent areas and services (taxis) tend to avoid them as well. Using the taxi courses dataset we could analyze if people go to areas with a high crime rate and if taxis take courses from such areas (we can perform the same analysis with bicycle trips.
 
+- Can we predict if a crime will lead to an arrest of the author, the probability to be victim of a certain type of crime or even predict the type of crime given it's other report information?
+
 # Dataset
 
 - [Chicago - Crimes](https://www.kaggle.com/chicago/chicago-crime):
@@ -31,7 +33,7 @@ This dataset records the results of food inspection since 2010 in Chicago. We ha
 - [Chicago - Taxi Rides (2016)](https://www.kaggle.com/chicago/chicago-taxi-rides-2016):
 This dataset contains taxi rides data such as the location of picking and dropping, time of the course. This would allow us to see which areas of the city are well connected and which areas tend to be excluded. We can then try to correlate the results with the violent areas. However, this analysis can only be possible for the 2016 year.
 
-- [Flu Clinics](https://healthdata.gov/dataset/flu-shot-locations-2014-present):
+- [Chicago - Flu Clinics](https://healthdata.gov/dataset/flu-shot-locations-2014-present):
 List of free flu clinics offered throughout Chicago, either by the Department of Public Health or in collaboration with it.
 
 
