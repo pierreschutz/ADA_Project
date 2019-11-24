@@ -20,32 +20,23 @@ Also, we think that a good analysis of crime through cities with endemic crimina
 
 - Are violent areas ghettos (no-go zones)? We can speculate that people do not go to violent areas and services (taxis) tend to avoid them as well. Using the taxi courses dataset we could analyze if people go to areas with a high crime rate and if taxis take courses from such areas (we can perform the same analysis with bicycle trips.
 
-- Is there any correlation between the density of fire and police stations and the number of crimes in certain areas of Chicago?
-
-- Are there more towed vehicles is considered less dangerous zones where the average salary might be higher so people do not care about having their vehicles towed? Or on the contrary, it is in the dangerous areas where illegality is more present?
-
 # Dataset
 
-- [Chicago Crimes](https://www.kaggle.com/chicago/chicago-crime):
+- [Chicago - Crimes](https://www.kaggle.com/chicago/chicago-crime):
 This dataset records many crimes committed in the past 20 years in Chicago. We have access to the year, time, location, type of crime, district of each crime. We can thus make a geographical analysis to find concerned areas. We can see the evolution using the timestamp. 
 
-- [Food Inspection in Chicaco](https://www.kaggle.com/chicago/chicago-food-inspections):
+- [Chicaco - Food Inspection](https://www.kaggle.com/chicago/chicago-food-inspections):
 This dataset records the results of food inspection since 2010 in Chicago. We have access to the name and location of the food institution, the results of the test. We can find areas that tend to fail inspections and see how they compare with the crime rate.  It can tell us if crimes are located in areas with good restaurants (might be richer areas) or bad ones (might be poorer areas).
 
-- [Chicago taxi rides in 2016](https://www.kaggle.com/chicago/chicago-taxi-rides-2016):
+- [Chicago - Taxi Rides (2016)](https://www.kaggle.com/chicago/chicago-taxi-rides-2016):
 This dataset contains taxi rides data such as the location of picking and dropping, time of the course. This would allow us to see which areas of the city are well connected and which areas tend to be excluded. We can then try to correlate the results with the violent areas. However, this analysis can only be possible for the 2016 year.
 
-- [Towed Vehicles](https://data.cityofchicago.org/Transportation/Towed-Vehicles/ygr5-vcbg):
-This dataset provides the location of vehicles in Chicago that have been towed which means either illegally parked vehicles, abandoned vehicles, and vehicles used for illegal activities. We can use this dataset to further our zone-oriented crime analysis with previous datasets.
-
-- [Police Stations](https://data.cityofchicago.org/Public-Safety/Police-Stations/z8bn-74gv?fbclid=IwAR2yJeCXKd2toir7M50FkGWQ9MOZ7hrAD5ZMudAbiJE0vgriOIkw_d6y19Q)/[Fire Stations](https://data.cityofchicago.org/Public-Safety/Fire-Stations/28km-gtjn?fbclid=IwAR0SS0NRQiQoBv9fRFvIYgTfbqvL4sTAvKN_bbyXfsPCBeCJsTE_l72R8Vk):
-These datasets provide locations of police stations and fire stations in Chicago. We can use it to find out different location densities of them and try to group them and see if we get the same results as with the crime locations.
-
-- [Chicago public dataset](https://data.cityofchicago.org/):
-This website contains publicly available datasets for the city of Chicago. It could be a great way to complete our analysis. We can find data regarding different aspects of the city such as education, real estate, environment, cleanness... Finding how violent zones differ from each other regarding other aspects might lead us to discover factors that reduce violence.
+- [Flu Clinics](https://healthdata.gov/dataset/flu-shot-locations-2014-present):
+List of free flu clinics offered throughout Chicago, either by the Department of Public Health or in collaboration with it.
 
 
-# A list of internal milestones up until project milestone 2
+
+# List of internal milestones up until project milestone 3
 
 ### Week 1 (28/10/2019 - 03/11/2019)
 
@@ -78,10 +69,33 @@ Prepare the Milestone 2 :
 
 ### Milestone 2: 25/11/2019
 
+### Week 5 (24/11/2019 - 01/12/2019)
 
-# Questions for TAs
+- Build model prediction community areas from location
+- Merge the different datasets using community areas
 
-- Should we restrict ourselves to the crime dataset or is it a good idea to explore other Chicago related datasets (food inspections, taxis courses) to find correlations?
+
+### Week 6 (02/12/2019 - 08/12/2019)
+
+- Answer the research questions using all datasets 
+- Build predictive models
+- Choose the may to report our work (Data Report / Data Story)
+
+### Week 7 (09/12/2019 - 15/12/2019)
+
+- Create and complete the report/story using our analysis
+- Extract the results from the notebooks and report them into the presentation.
+
+### Week 8 (16/12/2019 - 20/12/2019)
+
+- Finish building the report or story 
+- Merge notebook and clean the code
+
+
+### Milestone 3 : 20/12/2019
+
+
+
 
 
 
