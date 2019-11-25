@@ -1,4 +1,6 @@
-## For Milestone 2 please find our notebook 'Milestone2.ipynb' in branch master.
+### For Milestone 2 please find our notebook 'milestone2.ipynb' in branch master.
+
+
 
 # Title - Dive into the Heart of Chicago's crime
 
