@@ -1,4 +1,6 @@
-### For Milestone 3 please find our notebook 'milestone3.ipynb' in branch master.
+### For Milestone 3:
+- Please find our notebook 'milestone3.ipynb' in branch master.
+- Please find our data story here : https://pierreschutz.github.io/dada-story/
 
 
 
