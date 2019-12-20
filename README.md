@@ -107,7 +107,7 @@ Prepare the Milestone 2 :
   - Clinics dataset preprocessing and analysis (Milestone 2)
   - Machine learning models for Data Story (Milestone 3)
 
-- **Maxence Jouve:**
+- **Maxence Jouve:** 
   - Project definition and datasets research (Milestone 1)
   - Crime dataset preprocessing and analysis (Milestone 2)
   - Crime dataset analysis for Data Story (Milestone 3)
@@ -115,6 +115,7 @@ Prepare the Milestone 2 :
 - **Rayane Laraki:**
   - Taxi rides dataset preprocessing and analysis (Milestone 2)
   - Effects on the city analysis for Data Story (Milestone 3)
+  - Prepare the final presentation 
 
 - **Pierre Schutz:**
   - Project definition and datasets research (Milestone 1)
