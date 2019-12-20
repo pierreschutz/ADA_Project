@@ -40,3 +40,8 @@ data/chicago-taxi-rides-2016/data_dictionary.csv
 data/chicago-taxi-rides-2016/taxi_rides.pickle
 data/chicago-taxi-rides-2016/taxi_rides_init.pickle
 taxi_rides.ipynb
+.Chicago_Crime_Data_Story.ipynb.icloud
+.ipynb_checkpoints/.Chicago_Crime_Data_Story-checkpoint.ipynb.icloud
+.ipynb_checkpoints/.milestone2-checkpoint.ipynb.icloud
+data/.chicago_community_areas.geojson.icloud
+data/.chicago_crime.pickle.icloud
