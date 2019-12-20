@@ -33,8 +33,6 @@ Also, we think that a good analysis of crime through cities with endemic crimina
 
 - Correlate some factors that correspond to the quality of life (green area, quality of education, quality of restaurants, price of real estate) and their respective areas with crimes? We would like to see if areas concerned with violence are similar to areas with a high number of failed food inspections. Indeed, there might be more failed food inspections in poorer districts than richer ones.
 
-- Are violent areas ghettos (no-go zones)? We can speculate that people do not go to violent areas and services (taxis) tend to avoid them as well. Using the taxi courses dataset we could analyze if people go to areas with a high crime rate and if taxis take courses from such areas (we can perform the same analysis with bicycle trips.
-
 - Can we predict if a crime will lead to an arrest of the author, the probability to be victim of a certain type of crime or even predict the type of crime given it's other report information?
 
 # Datasets
