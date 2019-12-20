@@ -100,6 +100,26 @@ Prepare the Milestone 2 :
 
 ### Milestone 3 : 20/12/2019
 
+# Contributions : 
+
+- **Louis Amaudruz:**
+  - Datasets research (Milestone 1)
+  - Clinics dataset preprocessing and analysis (Milestone 2)
+  - Machine learning models for Data Story (Milestone 3)
+
+- **Maxence Jouve:**
+  - Project definition and datasets research (Milestone 1)
+  - Crime dataset preprocessing and analysis (Milestone 2)
+  - Crime dataset analysis for Data Story (Milestone 3)
+
+- **Rayane Laraki:**
+  - Taxi rides dataset preprocessing and analysis (Milestone 2)
+  - Effects on the city analysis for Data Story (Milestone 3)
+
+- **Pierre Schutz:**
+  - Project definition and datasets research (Milestone 1)
+  - Food inspection preprocessing and analysis (Milestone 2)
+  - Jekyll website for Data Story (Milestone 3)
 
 
 
