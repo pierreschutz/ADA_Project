@@ -1,8 +1,14 @@
-### For Milestone 2 please find our notebook 'milestone2.ipynb' in branch master.
+### For Milestone 3 please find our notebook 'milestone3.ipynb' in branch master.
 
 
 
 # Title - Dive into the Heart of Chicago's crime
+
+1. [Abstract](#abstract)
+2. [Research questions](#research-questions)
+3. [Datasets](#datasets)
+4. [Internal milestones](#internal-milestones)
+5. [Contributions](#contributions)
 
 
 # Abstract
@@ -14,7 +20,7 @@ Through this study of 20 years of crime, we want to bring insights on the crime 
 Also, we think that a good analysis of crime through cities with endemic criminality such as Chicago can be a useful tool for the police (to prevent crime), lawmakers (judge cases with insights from similar events), touristic office (give information about areas to avoid,  when).
 
 
-# Research questions
+# Research Questions
 
 - Is the violence evenly spread across the city or are some districts more concerned with violence? We think that some areas might be more subject to violence and crime. 
 
@@ -26,7 +32,7 @@ Also, we think that a good analysis of crime through cities with endemic crimina
 
 - Can we predict if a crime will lead to an arrest of the author, the probability to be victim of a certain type of crime or even predict the type of crime given it's other report information?
 
-# Dataset
+# Datasets
 
 - [Chicago - Crimes](https://www.kaggle.com/chicago/chicago-crime):
 This dataset records many crimes committed in the past 20 years in Chicago. We have access to the year, time, location, type of crime, district of each crime. We can thus make a geographical analysis to find concerned areas. We can see the evolution using the timestamp. 
@@ -42,7 +48,7 @@ List of free flu clinics offered throughout Chicago, either by the Department of
 
 
 
-# List of internal milestones up until project milestone 3
+# Internal Milestones
 
 ### Week 1 (28/10/2019 - 03/11/2019)
 
@@ -100,7 +106,7 @@ Prepare the Milestone 2 :
 
 ### Milestone 3 : 20/12/2019
 
-# Contributions : 
+# Contributions 
 
 - **Louis Amaudruz:**
   - Datasets research (Milestone 1)
