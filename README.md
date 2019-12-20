@@ -1,5 +1,7 @@
 ### For Milestone 3:
 - Please find our notebook 'milestone3.ipynb' in branch master.
+
+
 **Note:** It is not possible to see the folium map when downloading the notebooks. In order to run the notebook you will have to download our pickle files [here](https://drive.google.com/drive/u/0/folders/166bBVEuuSSkdaonuE8cvsT-628nWaLbO?fbclid=IwAR0RFhuklnrJpVe2-kGySa4mpM7xI5_rroc6SW3_2d8P1PCnfSw_owahDKw) and put it in a folder `/data`. 
 - Please find our data story here : https://pierreschutz.github.io/dada-story/
 
