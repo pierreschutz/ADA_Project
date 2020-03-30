@@ -1,4 +1,4 @@
-# Title - Dive into the Heart of Chicago's crime
+# Dive into the Heart of Chicago's crime
 
 Please find our data story here : https://pierreschutz.github.io/dada-story/
 
